@@ -1,0 +1,1 @@
+Select this directory to create your KiCAD Projects
